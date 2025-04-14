@@ -19,6 +19,7 @@ Ensure the following tools and dependencies are installed on your system:
 
 ### 1. Create Project Folder
 
+Download the qa_web_app zip file from the repo and unzip it
 Create a folder named `qa_web_app` and structure it as follows:
 
 ```
